@@ -85,7 +85,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 ## Services Overview:
 
-• Explore all the available services in AWS platform.
+• Explore all the available services in Azure platform.
 
 ## Output:
 <img width="1879" height="1170" alt="Screenshot 2025-09-15 135920" src="https://github.com/user-attachments/assets/24a3f224-f696-490f-9ba3-c0920f548d4d" />
